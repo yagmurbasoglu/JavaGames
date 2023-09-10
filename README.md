@@ -23,12 +23,12 @@ Examine the cells on the board carefully to win or lose the game.
 When you win or lose the game, if you want to start a new game, you can start a new game by using the "Y" or "N" option.
 ### ***Folders***
 
-The normal and OOP versions of this game and the 3D version are available in separate files. You can find the relevant codes in the links below:
+The normal and OOP versions of this game and the 3D version are available in separate files. You can find the relevant codes in the links below:                                                                                                                                         
 
 ***NOTE***
 These written codes are at a simple level. Some new features such as time keeping and score keeping will be added as soon as the game updates. 
 
-- [Normal Java Version] https://github.com/yagmurbasoglu/JavaGames/blob/5fd9af977c44695df62b49fc8720f1a065e85bef/MinesweeperGame.zip
+- [Normal Java Version] https://github.com/yagmurbasoglu/JavaGames/blob/5fd9af977c44695df62b49fc8720f1a065e85bef/MinesweeperGame.zip                                                                                                                                                     
 
 ***NOTE***
   More classes will be added
