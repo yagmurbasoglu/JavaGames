@@ -24,8 +24,11 @@ When you win or lose the game, if you want to start a new game, you can start a 
 ### ***Folders***
 
 The normal and OOP versions of this game and the 3D version are available in separate files. You can find the relevant codes in the links below:
-
+***NOTE***
+These written codes are at a simple level. Some new features such as time keeping and score keeping will be added as soon as the game updates. 
 - [Normal Java Version] https://github.com/yagmurbasoglu/JavaGames/blob/5fd9af977c44695df62b49fc8720f1a065e85bef/MinesweeperGame.zip
+***NOTE***
+  More classes will be added
 - [OOP Version](link_to_oop_game)
 - [3D Version](link_to_3d_game)
 Thanks
