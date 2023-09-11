@@ -34,6 +34,12 @@ These written codes are at a simple level. Some new features such as time keepin
   More classes will be added
   
 - [OOP Version](https://github.com/yagmurbasoglu/MinesweeperGame/blob/3c925282e4abb29fdcd21c565e4efacc5a49977b/MinesweeperGameOOP.zip)
+
+
+
+  ***NOTE***
+  Music and symbol additions will be made.
+
   
 - [3D Version](https://github.com/yagmurbasoglu/MinesweeperGame/blob/22a200c8a9de2f1abae9ed142a5fd1c99e22868b/MinesweeperGame3D.zip)
 
