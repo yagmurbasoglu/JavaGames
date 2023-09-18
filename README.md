@@ -1,7 +1,6 @@
-# JavaGames
 I am writing games using java in this repository. I write and install the games I write in both 2D and 3D using normal Java beginner level and OOP.
 
-# 1) Minesweeper Game
+# Minesweeper Game
 This is a Minesweeper game developed using the Java programming language. The main objective of the game is to find all the mines and open all the cells that are not mines. The player must guess the location of the mines by examining the game board and win the game.
 
 ### ***Game rules***
